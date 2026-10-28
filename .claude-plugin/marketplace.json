@@ -1,0 +1,17 @@
+{
+  "name": "scikit-plots-skills",
+  "owner": {
+    "name": "The scikit-plots developers",
+    "email": "scikit-plots-maintainers@googlegroups.com"
+  },
+  "metadata": {
+    "description": "Skills and agents for using scikit-plots in any project: one per public module, generated from the package's own __all__ and docstrings."
+  },
+  "plugins": [
+    {
+      "name": "scikitplot",
+      "source": "./",
+      "description": "Skills and agents for using scikit-plots in any project: one per public module, generated from the package's own __all__ and docstrings."
+    }
+  ]
+}
