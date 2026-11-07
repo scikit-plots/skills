@@ -1,9 +1,6 @@
 ---
 name: scikitplot-decile
 description: "Use scikitplot.decile (scikit-plots) in any Python project. Visualizing predictive model insights for enhanced business decision-making. Use when code imports scikitplot.decile or needs ModelPlotPy, plot_response, plot_cumresponse, plot_cumlift, plot_cumgains, plot_all, plot_costsrevs, plot_profit."
-license: BSD-3-Clause
-metadata:
-  scikitplot-module: "scikitplot.decile"
 ---
 
 # `scikitplot.decile`

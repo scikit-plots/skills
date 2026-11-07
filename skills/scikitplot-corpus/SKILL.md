@@ -1,9 +1,6 @@
 ---
 name: scikitplot-corpus
 description: "Use scikitplot.corpus (scikit-plots) in any Python project. Document ingestion, chunking, embedding and retrieval pipeline from scikit-plots. Use when code imports scikitplot.corpus or needs to_langchain_documents, to_langgraph_state, to_mcp_resources, to_mcp_tool_result, to_huggingface_dataset, to_rag_tuples, to_jsonl, to_numpy_arrays."
-license: BSD-3-Clause
-metadata:
-  scikitplot-module: "scikitplot.corpus"
 ---
 
 # `scikitplot.corpus`
@@ -76,7 +73,7 @@ Declared in `scikitplot.corpus.__all__`, in that order.
 | `register_bridge` | function | Register a custom bridge for a user-defined chunker class. |
 | `unregister_bridge` | function | Remove a previously registered bridge for *chunker_class*. |
 
-411 more names, and signatures: [references/API.md](references/API.md).
+416 more names, and signatures: [references/API.md](references/API.md).
 
 ## Example (from the docstring of `scikitplot.corpus`)
 

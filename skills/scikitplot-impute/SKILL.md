@@ -1,9 +1,6 @@
 ---
 name: scikitplot-impute
 description: "Use scikitplot.impute (scikit-plots) in any Python project. Transformers for missing value imputation. Use when code imports scikitplot.impute or needs MissingIndicator, SimpleImputer, ANNImputer."
-license: BSD-3-Clause
-metadata:
-  scikitplot-module: "scikitplot.impute"
 ---
 
 # `scikitplot.impute`

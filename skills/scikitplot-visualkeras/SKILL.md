@@ -1,9 +1,6 @@
 ---
 name: scikitplot-visualkeras
 description: "Use scikitplot.visualkeras (scikit-plots) in any Python project. Use when code imports scikitplot.visualkeras or needs SpacingDummyLayer, graph_view, layered_view."
-license: BSD-3-Clause
-metadata:
-  scikitplot-module: "scikitplot.visualkeras"
 ---
 
 # `scikitplot.visualkeras`

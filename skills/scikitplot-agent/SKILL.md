@@ -1,9 +1,6 @@
 ---
 name: scikitplot-agent
 description: "Use scikitplot.agent (scikit-plots) in any Python project. Bounded, audited tool use: a planner proposes, the runtime disposes. Use when code imports scikitplot.agent or needs ArtifactStore, DirectoryArtifactStore, MemoryArtifactStore, AuditSink, JsonlAuditSink, MemoryAuditSink, read_audit, verify_audit."
-license: BSD-3-Clause
-metadata:
-  scikitplot-module: "scikitplot.agent"
 ---
 
 # `scikitplot.agent`
@@ -75,7 +72,7 @@ Declared in `scikitplot.agent.__all__`, in that order.
 | `Step` | class | One completed step: a decision and what came of it. |
 | `StepOutcome` | enum | What one step came to. |
 
-8 more names, and signatures: [references/API.md](references/API.md).
+19 more names, and signatures: [references/API.md](references/API.md).
 
 ## Example (from the docstring of `scikitplot.agent.MemoryArtifactStore`)
 

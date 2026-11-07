@@ -1,9 +1,6 @@
 ---
 name: scikitplot-mlflow
 description: "Use scikitplot.mlflow (scikit-plots) in any Python project. Project-level MLflow configuration and workflow helpers from scikit-plots. Use when code imports scikitplot.mlflow or needs DEFAULT_MLFLOW_SERVER_FLAGS, MlflowServerCliCaps, ensure_flags_supported, get_mlflow_server_cli_caps, import_mlflow, resolve_download_artifacts, ServerConfig, SessionConfig."
-license: BSD-3-Clause
-metadata:
-  scikitplot-module: "scikitplot.mlflow"
 ---
 
 # `scikitplot.mlflow`

@@ -1,9 +1,6 @@
 ---
 name: scikitplot-cython
 description: "Use scikitplot.cython (scikit-plots) in any Python project. Runtime Cython and pybind11 build helpers from scikit-plots. Use when code imports scikitplot.cython or needs DEFAULT_COMPILER_DIRECTIVES, build_extension_module, build_extension_module_result, build_extension_package_from_code_result, build_extension_package_from_paths_result, CACHE_SCHEMA_VERSION, CacheEntry, PackageCacheEntry."
-license: BSD-3-Clause
-metadata:
-  scikitplot-module: "scikitplot.cython"
 ---
 
 # `scikitplot.cython`

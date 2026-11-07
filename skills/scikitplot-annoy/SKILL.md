@@ -1,9 +1,6 @@
 ---
 name: scikitplot-annoy
 description: "Use scikitplot.annoy (scikit-plots) in any Python project. Approximate nearest-neighbour index (Annoy) with the scikit-plots high-level wrapper; the one partial distribution that is compiled. Use when code imports scikitplot.annoy or needs Annoy, AnnoyIndex, CompressMode, Index, IndexIOMixin, MetaMixin, NDArrayMixin, PickleMixin."
-license: BSD-3-Clause
-metadata:
-  scikitplot-module: "scikitplot.annoy"
 ---
 
 # `scikitplot.annoy`

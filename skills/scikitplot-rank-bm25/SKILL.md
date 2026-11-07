@@ -1,9 +1,6 @@
 ---
 name: scikitplot-rank-bm25
 description: "Use scikitplot.rank_bm25 (scikit-plots) in any Python project. BM25 ranking algorithms (Okapi BM25, BM25L, BM25+) from scikit-plots. Use when code imports scikitplot.rank_bm25 or needs CALIBRATION_METHODS, ScoreCalibrator, RECIPES, Analyzer, Recipe, lexical_identity, BM25, BM25Okapi."
-license: BSD-3-Clause
-metadata:
-  scikitplot-module: "scikitplot.rank_bm25"
 ---
 
 # `scikitplot.rank_bm25`
@@ -89,5 +86,5 @@ precondition:
 The scoring formula is named and versioned rather than implied by the class:
 
 >>> bm25.recipe.identifier
-'okapi-epsilon-floor/1'
+'okapi-epsilon-floor/2'
 ```

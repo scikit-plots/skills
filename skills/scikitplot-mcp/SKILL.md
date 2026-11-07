@@ -1,9 +1,6 @@
 ---
 name: scikitplot-mcp
 description: "Use scikitplot.mcp (scikit-plots) in any Python project. Documentation retrieval for Model Context Protocol servers from scikit-plots. Use when code imports scikitplot.mcp or needs RuntimeConfig, main, assert_capability_vocabulary_matches_corpus, effective_server_capabilities, server_capabilities, server_runtime_status, DOC_ID_RE, MAX_CHUNK_CHARS."
-license: BSD-3-Clause
-metadata:
-  scikitplot-module: "scikitplot.mcp"
 ---
 
 # `scikitplot.mcp`

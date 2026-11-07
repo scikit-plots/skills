@@ -1,9 +1,6 @@
 ---
 name: scikitplot-api
 description: "Use scikitplot.api (scikit-plots) in any Python project. Scikit-plots Functional API module. Use when code imports scikitplot.api or needs plot_calibration, plot_classifier_eval, plot_confusion_matrix, plot_elbow, plot_feature_importances, plot_learning_curve, plot_pca_2d_projection, plot_pca_component_variance."
-license: BSD-3-Clause
-metadata:
-  scikitplot-module: "scikitplot.api"
 ---
 
 # `scikitplot.api`

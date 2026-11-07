@@ -1,9 +1,6 @@
 ---
 name: scikitplot-sphinx-ext
 description: "Use scikitplot._externals._sphinx_ext (scikit-plots) in any Python project. The Sphinx extensions of the scikit-plots documentation, installable on their own for any Sphinx project. Use when code imports scikitplot._externals._sphinx_ext or needs _ansi_sanitizer, _pydata_component_list, _sphinx_ai_assistant, _sphinx_ai_learn, _sphinx_collection, _sphinx_feedback, _sphinx_gallery_grid, _sphinx_gallery_jupyterlite."
-license: BSD-3-Clause
-metadata:
-  scikitplot-module: "scikitplot._externals._sphinx_ext"
 ---
 
 # `scikitplot._externals._sphinx_ext`

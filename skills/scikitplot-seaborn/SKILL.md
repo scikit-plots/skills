@@ -1,9 +1,6 @@
 ---
 name: scikitplot-seaborn
 description: "Use scikitplot.seaborn (scikit-plots) in any Python project. Seaborn-style scikit-plots plotting. Use when code imports scikitplot.seaborn or needs aucplot, decileplot, evalplot, modelplot, print_labels."
-license: BSD-3-Clause
-metadata:
-  scikitplot-module: "scikitplot.seaborn"
 ---
 
 # `scikitplot.seaborn`

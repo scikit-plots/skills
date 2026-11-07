@@ -1,9 +1,6 @@
 ---
 name: scikitplot-levenshtein
 description: "Use scikitplot.levenshtein (scikit-plots) in any Python project. Levenshtein distance facade with safe optional acceleration. Use when code imports scikitplot.levenshtein or needs BackendInfo, Match, available_backends, backend_info, closest, distance, normalized_distance, normalized_similarity."
-license: BSD-3-Clause
-metadata:
-  scikitplot-module: "scikitplot.levenshtein"
 ---
 
 # `scikitplot.levenshtein`

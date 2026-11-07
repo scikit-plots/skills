@@ -1,9 +1,6 @@
 ---
 name: scikitplot-misc
 description: "Use scikitplot.misc (scikit-plots) in any Python project. Color-table utilities and miscellaneous plotting helpers. Use when code imports scikitplot.misc or needs closest_color_name, display_colors, plot_colortable, plot_overlapping_colors."
-license: BSD-3-Clause
-metadata:
-  scikitplot-module: "scikitplot.misc"
 ---
 
 # `scikitplot.misc`

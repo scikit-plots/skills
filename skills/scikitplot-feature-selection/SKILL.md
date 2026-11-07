@@ -1,9 +1,6 @@
 ---
 name: scikitplot-feature-selection
 description: "Use scikitplot.feature_selection (scikit-plots) in any Python project. Understand, group, track and monitor the features of wide pandas tables. Use when code imports scikitplot.feature_selection or needs DEFAULT_ANALYSIS_RULES, analysis_plan, recommend_treatments, treatment_groups, Assessment, AssessmentContext, AssessmentOutcome, AssessmentProvider."
-license: BSD-3-Clause
-metadata:
-  scikitplot-module: "scikitplot.feature_selection"
 ---
 
 # `scikitplot.feature_selection`

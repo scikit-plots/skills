@@ -1,9 +1,6 @@
 ---
 name: scikitplot-preprocessing
 description: "Use scikitplot.preprocessing (scikit-plots) in any Python project. Methods for scaling, centering, normalization, binarization, and more. Use when code imports scikitplot.preprocessing or needs DummyCodeEncoder, GetDummies."
-license: BSD-3-Clause
-metadata:
-  scikitplot-module: "scikitplot.preprocessing"
 ---
 
 # `scikitplot.preprocessing`

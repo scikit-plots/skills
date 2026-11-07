@@ -1,9 +1,6 @@
 ---
 name: scikitplot-logging
 description: "Use scikitplot.logging (scikit-plots) in any Python project. `logging` (alias, `logger`) module provide unified both Python `logging` and `logging.Logger` utilities. Use when code imports scikitplot.logging or needs BASIC_FORMAT, CRITICAL, DEBUG, ERROR, FATAL, INFO, NOTSET, WARN."
-license: BSD-3-Clause
-metadata:
-  scikitplot-module: "scikitplot.logging"
 ---
 
 # `scikitplot.logging`

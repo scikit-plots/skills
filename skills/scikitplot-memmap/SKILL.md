@@ -1,9 +1,6 @@
 ---
 name: scikitplot-memmap
 description: "Use scikitplot.memmap (scikit-plots) in any Python project. MemMap: file-backed or anonymous memory mapping. Use when code imports scikitplot.memmap or needs PY_PROT_NONE, PY_PROT_READ, PY_PROT_WRITE, PY_PROT_EXEC, PY_MAP_FILE, PY_MAP_SHARED, PY_MAP_PRIVATE, PY_MAP_TYPE."
-license: BSD-3-Clause
-metadata:
-  scikitplot-module: "scikitplot.memmap"
 ---
 
 # `scikitplot.memmap`

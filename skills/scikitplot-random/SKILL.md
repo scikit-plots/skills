@@ -1,9 +1,6 @@
 ---
 name: scikitplot-random
 description: "Use scikitplot.random (scikit-plots) in any Python project. Random Number Generation (Numpy-Like `Generator`). Use when code imports scikitplot.random or needs Kiss32Random, Kiss64Random, KissRandom, KissSeedSequence, KissBitGenerator, KissGenerator, KissRandomState, default_rng."
-license: BSD-3-Clause
-metadata:
-  scikitplot-module: "scikitplot.random"
 ---
 
 # `scikitplot.random`

@@ -1,7 +1,6 @@
 ---
 name: scholarly-inquiry-cycle
 description: "Conduct rigorous, discipline-appropriate inquiry on any topic, from the humanities and sciences to engineering decisions: define the problem, examine evidence and assumptions, develop and challenge claims, synthesize findings, and name the next inquiry. Use when a question needs investigation rather than recall, when competing explanations or sources must be weighed, when WH-questions (what, why, who, where, when, which, how, how much) should structure an analysis, or before designing a change, to set out goals, evidence, failure modes and alternatives."
-license: BSD-3-Clause
 ---
 
 # Scholarly Inquiry Cycle
