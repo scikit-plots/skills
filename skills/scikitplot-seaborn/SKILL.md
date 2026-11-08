@@ -49,7 +49,7 @@ All names with signatures: [references/API.md](references/API.md).
 
 ## Example (from the docstring of `scikitplot.seaborn.print_labels`)
 
-```pycon
->>> import scikitplot.seaborn as sp
->>> sp.print_labels()
+```python
+import scikitplot.seaborn as sp
+sp.print_labels()
 ```
