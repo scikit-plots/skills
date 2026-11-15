@@ -5,7 +5,8 @@
     "email": "scikit-plots-maintainers@googlegroups.com"
   },
   "metadata": {
-    "description": "Skills and agents for using scikit-plots in any project: one per public module, generated from the package's own __all__ and docstrings."
+    "description": "Skills and agents for using scikit-plots in any project: one per public module, generated from the package's own __all__ and docstrings.",
+    "version": "0.5.0-0.dev.0.20261115064056+gc051ece"
   },
   "plugins": [
     {
