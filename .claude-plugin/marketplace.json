@@ -6,7 +6,7 @@
   },
   "metadata": {
     "description": "Skills and agents for using scikit-plots in any project: one per public module, generated from the package's own __all__ and docstrings.",
-    "version": "0.5.0-0.dev.0.20261124083646+gd330b49"
+    "version": "0.5.0-0.dev.0.20261124131044+g14719d8"
   },
   "plugins": [
     {
